@@ -16,7 +16,7 @@ export const templates = [
 "なぜ「{passive}」は、「{concept}」に起因するのか？",
 "なぜ「{passive}」は、「{concept2}」に起因するのか？",
 "なぜ「{verb}」は、「{passive}」に起因するのか？",
-"「{subject}の{concept}」は、なぜ「{object}」によって制限されるのか？]",
+"「{subject}の{concept}」は、なぜ「{object}」によって制限されるのか？",
 "「{subject}の{concept2}」は、なぜ「{object}」によって制限されるのか？",
 "「{subject}の「{verb}」は、なぜ「{concept}」によって制限されるのか？",
 "{subject}は、「{concept}」によってどうなるか？",
